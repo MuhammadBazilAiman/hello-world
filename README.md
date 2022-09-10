@@ -9,3 +9,5 @@ Language I've learned so far:
 - HTML
 - CSS
 - Javascript
+
+I made some new changes !
